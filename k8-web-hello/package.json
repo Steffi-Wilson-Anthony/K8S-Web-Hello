@@ -1,0 +1,14 @@
+{
+  "name": "k8s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "steffi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
